@@ -18,7 +18,7 @@ Test: https://drive.google.com/drive/folders/1UU1H3dwPKS6CjviROqoW9RXpGo6hms6Z
 ## Our Solution:
 * First and foremost, we generated 3 types of sound signal to image for training this problem - *STFT*, *Mel-spectrogram-RGB*, *Mel-spectrogram-GreyScale*. 
 * Besides that, essembling 3 models, including RNN and CNN models with their precision point based on class *(Turning Point)* maked our result better . 
-* In addition, we tried to use mel spectrogram images in ==tranposed form== due to operating principle of CNN - sliding frame in horizontal-order
+* In addition, we tried to use mel spectrogram images in <span style="background-color: #FFFF00">*tranposed form*</span> due to operating principle of CNN - sliding frame in horizontal-order
 <br />
 
 ## References:
