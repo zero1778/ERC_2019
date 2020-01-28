@@ -1,11 +1,6 @@
 # Emotion Recognition Challenge 2019
 This is a very first challenge that I participated in Deep Learning, because I've just been studying in this field for 3 months...
 
-</p>
-<a href="https://colab.research.google.com/github/nhatsmrt/erc/blob/master/ERC.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-
 ## Final Result: 
 - 11th place in the 1st Round.
 - 4th place in Final Round - Honourable Mention ( ***Exceeding our expectations O.O*** )
